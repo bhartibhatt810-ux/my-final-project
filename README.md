@@ -34,19 +34,23 @@ Features a responsive catalog layout with a fully integrated countdown timer, ca
 
 #### 2. Cart Page & Order Calculation
 Displays real-time price updates, item counts, and custom shipping handling before final checkout.
-![Your Cart](./screenshots/YourCart.png)
+![Your Cart]
+[<img src="./assets/homepage.png" alt="Your Cart" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/YourCart.png)
 
 #### 3. Secure User Authentication Flow
 Clean login interface integrated with robust frontend validation and automatic session management.
-![Login Page](./screenshots/Login.png)
+![Login Page]
+[<img src="./assets/homepage.png" alt="Login Page" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Login.png)
 
 #### 4. Automated Verification System
 Displays the working integration of automated confirmation emails sent out via the auth handler.
-![Email Confirmation](./screenshots/Confirmation.png)
+![Email Confirmation]
+[<img src="./assets/homepage.png" alt="Email Confirmation" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Confirmation.png)
 
 #### 5. User Order History
 A dedicated UI panel pulling live data from the database to present clean receipt histories directly to the verified user.
-![Order History](./screenshots/Order%20History.png)
+![Order History]
+[<img src="./assets/homepage.png" alt="Order History" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Order%20History.png)
 
 ---
 
@@ -54,12 +58,15 @@ A dedicated UI panel pulling live data from the database to present clean receip
 
 #### 6. AWS API Gateway & Lambda Integration
 Demonstrates the cloud architecture where backend orders API routing endpoints trigger microservices seamlessly.
-![AWS Console](./screenshots/Api_2.png)
+![AWS Console]
+[<img src="./assets/homepage.png" alt="Api Gateway" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Purchase%20History.png)
 
 #### 7. Supabase Authentication Dashboard
 A snapshot of protected user database storage showing real-time sign-ins and encrypted security parameters.
-![Supabase Users](./screenshots/Authentication_2.png)
+![Supabase Users]
+[<img src="./assets/homepage.png" alt="Authentication Dashboard" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Authentication.png)
 
 #### 8. Relational Orders Database Schema
 A secure glimpse into the cloud relational database tables capturing active JSON payloads, item breakdowns, and specific transaction tracking.
-![Orders Table](./screenshots/Purchase%20History_2.png)
+![Orders Table]
+[<img src="./assets/homepage.png" alt="Orders Table" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Purchase%20History.png)
