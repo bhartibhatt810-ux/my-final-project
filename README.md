@@ -1,4 +1,4 @@
-# my-final-project
+# My-Final-Project
 # 🛒 Full-Stack E-Commerce Cloud Application
 
 A modern, secure, and production-ready full-stack E-Commerce web application. This project features a highly responsive frontend built with React and Vite, powered by a serverless cloud backend on AWS, and integrated with a scalable relational database and secure user management via Supabase.
@@ -28,7 +28,7 @@ A modern, secure, and production-ready full-stack E-Commerce web application. Th
 
 #### 1. Home Dashboard & Dynamic E-Commerce Experience
 Features a responsive catalog layout with a fully integrated countdown timer, category filters, and interactive product cards.
-![Main Website](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Main%20Website.png)
+![Main Website](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Main%20Website.pngm)
 
 #### 2. Cart Page & Order Calculation
 Displays real-time price updates, item counts, and custom shipping handling before final checkout.
