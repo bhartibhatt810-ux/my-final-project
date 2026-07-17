@@ -29,7 +29,7 @@ A modern, secure, and production-ready full-stack E-Commerce web application. Th
 #### 1. Home Dashboard & Dynamic E-Commerce Experience
 Features a responsive catalog layout with a fully integrated countdown timer, category filters, and interactive product cards.
 ![Main Website]
-[<img src="./assets/homepage.png" alt="Home Dashboard" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Main%20Website.png)
+[<img src="./assets/homepage.png" alt="Main Website" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Main%20Website.png)
 
 
 #### 2. Cart Page & Order Calculation
