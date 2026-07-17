@@ -53,7 +53,7 @@ A dedicated UI panel pulling live data from the database to present clean receip
 
 #### 6. AWS API Gateway & Lambda Integration
 Demonstrates the cloud architecture where backend orders API routing endpoints trigger microservices seamlessly.
-[<img src="./assets/homepage.png" alt="Api Gateway" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Purchase%20History.png)
+[<img src="./assets/homepage.png" alt="Api Gateway" width="900">](https://github.com/bhartibhatt810-ux/my-final-project/blob/main/Api.png)
 
 #### 7. Supabase Authentication Dashboard
 A snapshot of protected user database storage showing real-time sign-ins and encrypted security parameters.
